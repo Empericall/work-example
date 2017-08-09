@@ -6,7 +6,6 @@
 
 namespace app\models;
 
-use app\models\Helpers\Helpers;
 use yii\db\ActiveRecord;
 
 class Avatar extends ActiveRecord
